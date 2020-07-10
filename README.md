@@ -1,6 +1,6 @@
 # nlp
 
 **Table of Contents**
-## spaCy
-## Speech2text
-## NLTK
+- spaCy
+- Speech2text
+- NLTK
