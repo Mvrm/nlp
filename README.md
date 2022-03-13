@@ -4,3 +4,4 @@
 - spaCy
 - Speech2text
 - NLTK
+- Topic Modeling
