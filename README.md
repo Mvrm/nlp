@@ -4,4 +4,4 @@
 - spaCy
 - Speech2text
 - NLTK
-- Topic Modeling
+- Topic Modeling using Non-Negative Matrix Factorization and LDA
